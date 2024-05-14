@@ -7,12 +7,12 @@ This Power BI project provides an analysis of the FIFA Men's World Cup history, 
 The analysis uses a subset of data from the Fjeldstul World Cup database, a comprehensive database about all World Cup tournaments from 1930 to 2018. The database contains 27 datasets, but for our analysis, we are using 5.
 
 ## Key Questions
-Which country scored the most goals?
-Which country reached the most finals?
-Which year did teams score the most goals?
-Is there an advantage for the host country?
-Data Model
-The data model includes the following tables:
+* Which country scored the most goals?
+* Which country reached the most finals?
+* Which year did teams score the most goals?
+* Is there an advantage for the host country?
+* Data Model
+* The data model includes the following tables:
 
 ## Tournaments
 Teams
