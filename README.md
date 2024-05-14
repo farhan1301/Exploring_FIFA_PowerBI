@@ -11,21 +11,24 @@ The analysis uses a subset of data from the Fjeldstul World Cup database, a comp
 * Which country reached the most finals?
 * Which year did teams score the most goals?
 * Is there an advantage for the host country?
-* Data Model
-* The data model includes the following tables:
 
-## Tournaments
-Teams
-Team Appearances
-Matches
-Goals
+## Data Model
+The data model includes the following tables:
+* Tournaments
+* Teams
+* Team Appearances
+* Matches
+* Goals
 These tables are interconnected to allow for comprehensive analysis and insightful visualizations.
 
 ## Visualizations
 ### Overview Page
 Total Tournaments: The total number of World Cup tournaments analyzed.
+
 Host Wins Percentage: The percentage of tournaments won by the host country.
+
 Finals Reached by Team Code: A bar chart showing the number of finals reached by each country.
+
 Goals Scored by Year: A box plot showing the distribution of goals scored across different years.
 ### By Tournament Page
 Host Country Analysis: Focuses on the performance of teams when a specific country hosted the tournament. For example, the performance in Switzerland during the 1954 FIFA World Cup.
