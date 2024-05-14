@@ -1,10 +1,10 @@
 # Exploring FIFA Men's World Cup Data in Power BI 
 
 ## Overview
-This Power BI project provides an analysis of the FIFA Men's World Cup history, focusing on key metrics and questions related to team performances and historical trends. Using a subset of the Fjeldstul World Cup database, which spans all World Cup tournaments from 1930 to 2018, we have created visualizations and insights to address several key questions.
+This Power BI project provides an analysis of the FIFA Men's World Cup history, focusing on key metrics and questions related to team performances and historical trends. Using a subset of the Fjeldstul World Cup database, which spans all World Cup tournaments from 1930 to 2018, I have created visualizations and insights to address several key questions.
 
 ## Data
-The analysis uses a subset of data from the Fjeldstul World Cup database, a comprehensive database about all World Cup tournaments from 1930 to 2018. The database contains 27 datasets, but for our analysis, we are using 5.
+The analysis uses a subset of data from the Fjeldstul World Cup database, a comprehensive database about all World Cup tournaments from 1930 to 2018. The database contains 27 datasets, but for the analysis, I'm using 5.
 
 ## Key Questions
 * Which country scored the most goals?
